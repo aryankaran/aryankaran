@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Via Telegram @aryan_karan
 - ⚡ Fun fact: Still a self-taught Dev! ..🤭
 - 🍀 Can't explain much more ..😂
-<!-- - 😄 Pronouns: ...
-- 💬 Ask me about ... -->
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
