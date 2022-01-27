@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8](https://github.com/aryankaran/kernel_xiaomi_onclite/issues/8) in [aryankaran/kernel_xiaomi_onclite](https://github.com/aryankaran/kernel_xiaomi_onclite)
+2. 💪 Opened PR [#8](https://github.com/aryankaran/kernel_xiaomi_onclite/pull/8) in [aryankaran/kernel_xiaomi_onclite](https://github.com/aryankaran/kernel_xiaomi_onclite)
 <!--END_SECTION:activity-->
