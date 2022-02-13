@@ -1,10 +1,5 @@
 ### Hi there 👋 I’m Aryan Karan
 
-<!--
-**aryankaran/aryankaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on Android and organising things...😁 ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with Android devs...
@@ -12,6 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Via Telegram @aryan_karan
 - ⚡ Fun fact: Still a self-taught Dev! ..🤭
 - 🍀 Can't explain much more ..😂
+- ❤️ Love creating exciting script ...
 
 ### ⚡ Recent GitHub Activity
 
@@ -23,3 +19,10 @@ Here are some ideas to get you started:
 
 ## Stats
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankaran&count_private=true&show_icons=true&theme=solarized-light)
+
+## README
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryankaran&repo=kernel_xiaomi_onclite&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryankaran&repo=lenovo_TB-8304F1&show_owner=true)
+
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankaran)
