@@ -25,4 +25,4 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryankaran&repo=lenovo_TB-8304F1&show_owner=true)
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankaran)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankaran&layout=compact)
