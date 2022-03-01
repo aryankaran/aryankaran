@@ -12,8 +12,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/JunioJsv/mtk-easy-su/pull/153) in [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su)
-2. 💪 Opened PR [#1](https://github.com/mi-msm8937/AnyKernel3/pull/1) in [mi-msm8937/AnyKernel3](https://github.com/mi-msm8937/AnyKernel3)
+1. ❗️ Opened issue [#5505](https://github.com/topjohnwu/Magisk/issues/5505) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+2. ❗️ Opened issue [#5504](https://github.com/topjohnwu/Magisk/issues/5504) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 <!--END_SECTION:activity-->
 
 
