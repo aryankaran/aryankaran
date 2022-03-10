@@ -12,8 +12,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Havoc-OS/OTA/pull/8) in [Havoc-OS/OTA](https://github.com/Havoc-OS/OTA)
-2. ❗️ Opened issue [#5505](https://github.com/topjohnwu/Magisk/issues/5505) in [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+1. ❗️ Opened issue [#1087](https://github.com/zhongyang219/TrafficMonitor/issues/1087) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+2. 💪 Opened PR [#8](https://github.com/Havoc-OS/OTA/pull/8) in [Havoc-OS/OTA](https://github.com/Havoc-OS/OTA)
 <!--END_SECTION:activity-->
 
 
