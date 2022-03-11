@@ -12,8 +12,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1087](https://github.com/zhongyang219/TrafficMonitor/issues/1087) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-2. 💪 Opened PR [#8](https://github.com/Havoc-OS/OTA/pull/8) in [Havoc-OS/OTA](https://github.com/Havoc-OS/OTA)
+1. 💪 Opened PR [#7529](https://github.com/ROM-builders/temporary/pull/7529) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
+2. ❗️ Opened issue [#1087](https://github.com/zhongyang219/TrafficMonitor/issues/1087) in [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 <!--END_SECTION:activity-->
 
 
