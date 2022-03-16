@@ -12,8 +12,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7761](https://github.com/ROM-builders/temporary/pull/7761) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
-2. 💪 Opened PR [#1](https://github.com/SKULSHADY/android_manifest/pull/1) in [SKULSHADY/android_manifest](https://github.com/SKULSHADY/android_manifest)
+1. ❌ Closed PR [#7761](https://github.com/ROM-builders/temporary/pull/7761) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
+2. 💪 Opened PR [#7761](https://github.com/ROM-builders/temporary/pull/7761) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
 <!--END_SECTION:activity-->
 
 
