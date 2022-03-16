@@ -12,8 +12,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/mi-msm8937/proprietary_vendor_xiaomi_rolex/pull/1) in [mi-msm8937/proprietary_vendor_xiaomi_rolex](https://github.com/mi-msm8937/proprietary_vendor_xiaomi_rolex)
-2. 💪 Opened PR [#7529](https://github.com/ROM-builders/temporary/pull/7529) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
+1. 💪 Opened PR [#1](https://github.com/SKULSHADY/android_manifest/pull/1) in [SKULSHADY/android_manifest](https://github.com/SKULSHADY/android_manifest)
+2. 💪 Opened PR [#1](https://github.com/mi-msm8937/proprietary_vendor_xiaomi_rolex/pull/1) in [mi-msm8937/proprietary_vendor_xiaomi_rolex](https://github.com/mi-msm8937/proprietary_vendor_xiaomi_rolex)
 <!--END_SECTION:activity-->
 
 
