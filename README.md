@@ -12,8 +12,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7761](https://github.com/ROM-builders/temporary/pull/7761) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
-2. 💪 Opened PR [#7761](https://github.com/ROM-builders/temporary/pull/7761) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
+1. ❌ Closed PR [#7529](https://github.com/ROM-builders/temporary/pull/7529) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
+2. ❌ Closed PR [#7761](https://github.com/ROM-builders/temporary/pull/7761) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
 <!--END_SECTION:activity-->
 
 
