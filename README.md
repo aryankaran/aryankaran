@@ -12,7 +12,7 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/PitchBlackRecoveryProject/manifest_pb/pull/16) in [PitchBlackRecoveryProject/manifest_pb](https://github.com/PitchBlackRecoveryProject/manifest_pb)
+1. 💪 Opened PR [#1](https://github.com/aryankaran/aryankaran/pull/1) in [aryankaran/aryankaran](https://github.com/aryankaran/aryankaran)
 2. ❌ Closed PR [#7529](https://github.com/ROM-builders/temporary/pull/7529) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
 <!--END_SECTION:activity-->
 
