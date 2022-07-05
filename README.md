@@ -20,7 +20,13 @@
 ## Stats
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankaran&count_private=true&show_icons=true&theme=solarized-light)
 <br>
+<br>
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aryankaran&theme=react-dark&hide_border=true&area=true&color=F14199&line=EB3C7E&area_color=7C4E62)
+<br>
+<br>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryankaran&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0)
+<br>
+<br>
 
 ## README
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryankaran&repo=kernel_xiaomi_onclite&show_owner=true)
