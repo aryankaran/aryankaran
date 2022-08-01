@@ -12,8 +12,8 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/aryankaran/proprietary_vendor_xiaomi_rolex/pull/1) in [aryankaran/proprietary_vendor_xiaomi_rolex](https://github.com/aryankaran/proprietary_vendor_xiaomi_rolex)
-2. 💪 Opened PR [#1](https://github.com/aryankaran/android_device_xiaomi_mithorium-common/pull/1) in [aryankaran/android_device_xiaomi_mithorium-common](https://github.com/aryankaran/android_device_xiaomi_mithorium-common)
+1. ❌ Closed PR [#1](https://github.com/aryankaran/android_device_xiaomi_mithorium-common/pull/1) in [aryankaran/android_device_xiaomi_mithorium-common](https://github.com/aryankaran/android_device_xiaomi_mithorium-common)
+2. 💪 Opened PR [#1](https://github.com/aryankaran/proprietary_vendor_xiaomi_rolex/pull/1) in [aryankaran/proprietary_vendor_xiaomi_rolex](https://github.com/aryankaran/proprietary_vendor_xiaomi_rolex)
 <!--END_SECTION:activity-->
 
 
